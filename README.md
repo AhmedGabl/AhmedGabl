@@ -1,10 +1,4 @@
 <div align="center">
-  <img height="150" src="https://drive.google.com/file/d/1LZCZCdYZZ6VeJFQVuOLc9c2II99GOXlU/view?usp=drive_link"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/ahmed-mohamed-556681291/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -110,12 +104,6 @@
 
 <h3 align="left">
 ### 🔥 My Stats:<br><br>- 🌟 Total Projects: [Number]<br>- 💻 Languages I Code In: [List of Languages]<br>- ⏰ Years of Experience: [Number of Years]<br>- 🚀 Current Focus: [Your Current Focus/Area of Interest]<br>- 📫 Reach Me: [Your Contact Information or Social Profiles]</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=AhmedGabl&theme=dark" alt="Layout with last medium posts"  />
-</div>
 
 ###
 
