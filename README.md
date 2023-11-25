@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm [Ahmed Abogabl] from [Cairo, Egypt], and here's a little bit about me:<br><br>- 🔭 I’m Currently working as an [internship as Embedded software engineer /Automotive Embedded systems] at [NTI].<br>- 📚 I'm currently learning [AUTOSAR / RTOS/ARM/Communication Protocols] to deepen my understanding and skills.<br>- ⚡ In my free time, I love to participate and look into ml projects to unwind and explore new horizons.</p>
+<p align="left">I'm [Ahmed Abogabl] from [Cairo, Egypt], and here's a little bit about me:<br><br>- 🔭 I’m Currently an [intern as Embedded software engineer /Automotive Embedded systems] at [NTI].<br>- 📚 I'm currently learning [AUTOSAR / RTOS/ARM/Communication Protocols] to deepen my understanding and skills.<br>- ⚡ In my free time, I love to participate and look into ml projects to unwind and explore new horizons.</p>
 
 ###
 
