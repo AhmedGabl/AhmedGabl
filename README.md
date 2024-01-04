@@ -95,7 +95,7 @@
 ###
 
 <h3 align="left">
-### 🔥 My Stats:<br><br>- <br>- 💻 Languages I Code In: [C/C++/Matlab/VHDL/Python/..]<br>- ⏰ Years of Experience: [5]<br>- 🚀 Current Focus: [ml in embedded systems]<br>- 📫 Reach Me: [Ahmed.Abogabl828@gmail.com]</h3>
+### 🔥 My Stats:<br><br>- 💻 Languages I Code In: [C/C++/Matlab/VHDL/Python/..]<br>- ⏰ Years of Experience: [5]<br>- 🚀 Current Focus: [ml in embedded systems]<br>- 📫 Reach Me: [Ahmed.Abogabl828@gmail.com]</h3>
 
 ###
 
