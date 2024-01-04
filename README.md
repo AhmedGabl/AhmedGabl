@@ -95,7 +95,7 @@
 ###
 
 <h3 align="left">
-### 🔥 My Stats:<br><br>- 🌟 Total Projects: [Number]<br>- 💻 Languages I Code In: [List of Languages]<br>- ⏰ Years of Experience: [Number of Years]<br>- 🚀 Current Focus: [Your Current Focus/Area of Interest]<br>- 📫 Reach Me: [Your Contact Information or Social Profiles]</h3>
+### 🔥 My Stats:<br><br>- 🌟 Total Projects: []<br>- 💻 Languages I Code In: [C/C++/Matlab/VHDL/Python/..]<br>- ⏰ Years of Experience: [5]<br>- 🚀 Current Focus: [ml in embedded systems]<br>- 📫 Reach Me: [Ahmed.Abogabl828@gmail.com]</h3>
 
 ###
 
