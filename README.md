@@ -6,11 +6,11 @@
 
 <br clear="both">
 
-<h4 align="left">👩‍💻  About Me :👋 Greetings, I'm Ahmed Abogabl, an enthusiastic tech explorer passionate about delving into the intricate world of embedded systems and cutting-edge technology. With a solid foundation in embedded systems, I've honed my skills by merging them with the dynamic realm of machine learning. My journey has led me to thrilling ventures, including hands-on involvement in rover projects with a specific focus on communication within the ROS (Robot Operating System) subteam. These experiences have granted me the opportunity to craft and refine systems that power seamless interactions and elevate the intelligence of robotic ecosystems. Whether I'm architecting embedded solutions or exploring the frontiers of machine learning, I thrive on challenges and am always seeking new opportunities to push the boundaries of what's possible.</h4>
+<h4 align="left">👩‍💻  About Me :👋 Greetings, I'm Ahmed Abogabl, an enthusiastic tech explorer passionate about delving into the intricate world of AI,embedded ml and cutting-edge technology. With a solid foundation in ai ,embedded systems, I've honed my skills by merging them with the dynamic realm of machine learning. My journey has led me to thrilling ventures, including hands-on involvement in rover projects with a specific focus on communication within the ROS (Robot Operating System) subteam. These experiences have granted me the opportunity to craft and refine systems that power seamless interactions and elevate the intelligence of robotic ecosystems. Whether I'm architecting  solutions or exploring the frontiers of machine learning, I thrive on challenges and am always seeking new opportunities to push the boundaries of what's possible.</h4>
 
 ###
 
-<p align="left">I'm [Ahmed Abogabl] from [Cairo, Egypt], and here's a little bit about me:<br><br>- 🔭 I’m Currently an [intern as Embedded software engineer /Automotive Embedded systems] at [NTI].<br>- 📚 I'm currently learning [AUTOSAR / RTOS/ARM/Communication Protocols] to deepen my understanding and skills.<br>- ⚡ In my free time, I love to participate and look into ml projects to unwind and explore new horizons.</p>
+<p align="left">I'm [Ahmed Abogabl] from [Cairo, Egypt], and here's a little bit about me:<br><br>- 🔭 I’m Currently a [software enginee] at [g2i].<br>- 📚 I'm currently learning [LLM/CV/NLP] to deepen my understanding and skills.<br>- ⚡ In my free time, I love to participate and look into ml latest papers to unwind and explore new horizons.</p>
 
 ###
 
